@@ -16,7 +16,7 @@
 [![Contributors](https://img.shields.io/github/contributors/OxyNotOp/SECRETxUB?style=flat-square&color=green)](https://github.com/OxyNotOp/SECRETxUB/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/OxyNotOp/SECRETxUB/blob/main/LICENSE)   
-[![HitCount](http://hits.dwyl.com/OxyNotOp/OxyNotOp/SECRETxUB.svg)](http://hits.dwyl.com/OxyNotOp/OxyNotOp/SECRETxUB)   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOxyNotOp%2FSecretPack&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/OxyNotOp/SECRETxUB)
 [![Sparkline](https://stars.medv.io/OxyNotOp/SECRETxUB.svg)](https://stars.medv.io/OxyNotOp/SECRETxUB)
 
 ----
