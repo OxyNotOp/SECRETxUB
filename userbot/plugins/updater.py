@@ -236,8 +236,8 @@ async def deploy(event, repo, ups_rem, ac_br, txt):
 @bot.on(admin_cmd(outgoing=True, pattern=r"update deploy$"))
 @bot.on(sudo_cmd(pattern="update deploy$", allow_sudo=True))
 async def upstream(event):
-    event = await edit_or_reply(event, "`Pulling the catpack repo wait a sec ....`")
-    off_repo = "https://github.com/Mr-confused/catpack"
+    event = await edit_or_reply(event, "`Pulling the SecretPack repo wait a sec ....`")
+    off_repo = "https://github.com/OxyNotOp/SecretPack"
     os.chdir("/app")
     catcmd = f"rm -rf .git"
     try:
