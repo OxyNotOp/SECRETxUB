@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/2d3e9ec5799b3b2a2fb01.jpg" alt="OxyNotOp Logo">
 </p>
 <h1 align="center">
-  <b>OxyXub - UserBot</b>
+  <b>SECRETX - UserBot</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + vc music bot, based on Telethon.</b>   
