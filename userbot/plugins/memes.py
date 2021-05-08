@@ -251,8 +251,8 @@ async def wish_check(event):
 async def source(e):
     await edit_or_reply(
         e,
-        "Click [here](https://github.com/sandy1709/catuserbot) to open this bot source code\
-        \nClick [here](https://github.com/Mr-confused/catpack) to open supported link for heroku",
+        "Click [here](https://github.com/OxyNotOp/SECRETxUB) to open this bot source code\
+        \nClick [here](https://github.com/OxyNotOp/SecretPack) to open supported link for heroku",
     )
 
 
