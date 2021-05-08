@@ -22,17 +22,11 @@
 ----
 
 # Deploy
-- [Heroku](#Deploy-to-Heroku)
-- [Local Machine](#Deploy-Locally)
+- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FOxyNotOp%2FSecretPack&template=https%3A%2F%2Fgithub.com%2FOxyNotOp%2FSecretPack)
 
 # Documentation 
 [![Document](https://img.shields.io/badge/Documentation-OxyXUB-blue)](http://SECRETxUB.tech/)
 
-# Tutorial 
-- Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://www.youtube.com/watch?v=9wF7k9qA0Q4)
-
-- Tutorial to get Redis URL and password - [here.](./resources/extras/redistut.md)
----
 
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
