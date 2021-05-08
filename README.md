@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="OxyNotOp Logo">
+  <img src="https://telegra.ph/file/2d3e9ec5799b3b2a2fb01.jpg" alt="OxyNotOp Logo">
 </p>
 <h1 align="center">
   <b>OxyXub - UserBot</b>
@@ -7,17 +7,17 @@
 
 <b>A stable pluggable Telegram userbot + vc music bot, based on Telethon.</b>   
 
-[![Stars](https://img.shields.io/github/stars/OxyNotOp/OxyXUB?style=flat-square&color=yellow)](https://github.com/OxyNotOp/OxyXUB/stargazers)
-[![Forks](https://img.shields.io/github/forks/OxyNotOp/OxyXUB?style=flat-square&color=orange)](https://github.com/OxyNotOp/OxyXUB/fork)
-[![Size](https://img.shields.io/github/repo-size/OxyNotOp/OxyXUB?style=flat-square&color=green)](https://github.com/OxyNotOp/OxyXUB/)   
+[![Stars](https://img.shields.io/github/stars/OxyNotOp/SECRETxUB?style=flat-square&color=yellow)](https://github.com/OxyNotOp/SECRETxUB/stargazers)
+[![Forks](https://img.shields.io/github/forks/OxyNotOp/SECRETxUB?style=flat-square&color=orange)](https://github.com/OxyNotOp/SECRETxUB/fork)
+[![Size](https://img.shields.io/github/repo-size/OxyNotOp/SECRETxUB?style=flat-square&color=green)](https://github.com/OxyNotOp/SECRETxUB/)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/OxyNotOp/OxyXUB/graphs/commit-activity)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/OxyNotOp/OxyXUB)   
-[![Contributors](https://img.shields.io/github/contributors/OxyNotOp/OxyXUB?style=flat-square&color=green)](https://github.com/OxyNotOp/OxyXUB/graphs/contributors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/OxyNotOp/SECRETxUB/graphs/commit-activity)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/OxyNotOp/SECRETxUB)   
+[![Contributors](https://img.shields.io/github/contributors/OxyNotOp/SECRETxUB?style=flat-square&color=green)](https://github.com/OxyNotOp/SECRETxUB/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/OxyNotOp/OxyXUB/blob/main/LICENSE)   
-[![HitCount](http://hits.dwyl.com/OxyNotOp/OxyNotOp/OxyXUB.svg)](http://hits.dwyl.com/OxyNotOp/OxyNotOp/OxyXUB)   
-[![Sparkline](https://stars.medv.io/OxyNotOp/OxyXUB.svg)](https://stars.medv.io/OxyNotOp/OxyXUB)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/OxyNotOp/SECRETxUB/blob/main/LICENSE)   
+[![HitCount](http://hits.dwyl.com/OxyNotOp/OxyNotOp/SECRETxUB.svg)](http://hits.dwyl.com/OxyNotOp/OxyNotOp/SECRETxUB)   
+[![Sparkline](https://stars.medv.io/OxyNotOp/SECRETxUB.svg)](https://stars.medv.io/OxyNotOp/SECRETxUB)
 
 ----
 
@@ -26,7 +26,7 @@
 - [Local Machine](#Deploy-Locally)
 
 # Documentation 
-[![Document](https://img.shields.io/badge/Documentation-OxyXUB-blue)](http://OxyXUB.tech/)
+[![Document](https://img.shields.io/badge/Documentation-OxyXUB-blue)](http://SECRETxUB.tech/)
 
 # Tutorial 
 - Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://www.youtube.com/watch?v=9wF7k9qA0Q4)
