@@ -21,21 +21,8 @@
 
 ----
 
-# Deploy
+# Deploy to heroku
 -[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FOxyNotOp%2FSecretPack&template=https%3A%2F%2Fgithub.com%2FOxyNotOp%2FSecretPack)
-
-# Documentation 
-[![Document](https://img.shields.io/badge/Documentation-OxyXUB-blue)](http://SECRETxUB.tech/)
-
-
-## Deploy to Heroku
-Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-## Deploy Locally
-- [Traditional Method](#local-deploy---traditional-method)
-- [Easy Method](#local-deploy---easy-method)
 
 
 ## Necessary Variables
