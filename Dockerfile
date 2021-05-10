@@ -1,4 +1,4 @@
-FROM sandy1709/catuserbot:latest
+FROM OxyNotOp/secretxub:latest
 
 #clonning repo 
 RUN git clone https://github.com/OxyNotOp/secretxub.git /root/userbot
