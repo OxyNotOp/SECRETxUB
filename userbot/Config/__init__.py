@@ -1,1 +1,1 @@
-from .catub_config import Config
+from .secretXub_config import Config
