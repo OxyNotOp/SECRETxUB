@@ -60,7 +60,7 @@ for name in files:
 LOGS.info("Yay your userbot is officially working.!!!")
 LOGS.info(
     "Congratulation, now type .alive to see message if bot is live\
-    \nIf you need assistance, head to https://t.me/catuserbot_support"
+    \nIf you need assistance, head to https://t.me/OxyXsupport"
 )
 
 
